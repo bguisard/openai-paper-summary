@@ -1,0 +1,83 @@
+Transportation systems are responsible for a large percentage of global energy-related CO_2 emissions.
+- The transportation sector has not made significant progress to lower its CO_2 emissions.
+- This is because of the high energy density of fuels required for many types of vehicles, which constrains low-carbon alternatives.
+- Passenger and freight transportation are each responsible for about half of transport GHG emissions.
+- Road travel is responsible for more than two-thirds of transportation emissions.
+- Air travel has the highest emission intensity and is responsible for an increasingly large share.
+- Strategies to reduce GHG emissions from transportation include:
+- Each of these mitigation strategies offers opportunities for ML.
+- ML can play a role for decarbonizing transportation that goes much further.
+- ML can improve vehicle engineering, enable intelligent infrastructure, and provide policy-relevant information.
+- Many interventions that reduce GHG emissions in the transportation sector require changes in planning, maintenance, and operations of transportation systems.
+- ML can help in implementing such interventions, for example by providing better demand forecasts.
+- A colossal amount of transport occurs each day across the world, but much of this mileage occurs inefficiently, resulting in needless GHG emissions.
+- With the help of ML, the number of vehicle-miles traveled can be reduced by making long trips less necessary, increasing loading, and optimizing vehicle routing.
+- Many areas of transportation lack data, and decision-makers often design infrastructure and policy with uncertain information.
+- In recent years, new types of sensors have become available, and ML can turn this raw data into useful information.
+- Traffic is monitored with ground-based counters that are installed on selected roads.
+- A variety of technologies are used, such as inductive loop detectors or pneumatic tubes.
+- Traffic is sometimes monitored with video systems, in particular when counting pedestrians and cyclists, which can be automated with computer vision.
+- ML methods, such as SVMs and neural networks, have made it easier to classify roads with similar traffic patterns.
+- As ground-based counters require costly installation and maintenance, many countries do not have such systems.
+- Vehicles can also be detected in high-resolution satellite images with high accuracy, and image counts can serve to estimate average vehicle traffic.
+- Modeling demand and planning new infrastructure can significantly shape how long trips are and which transport modes are chosen by passengers and shippers.
+- ML can provide information about mobility patterns, which is directly necessary for
+Vehicles can be detected in high-resolution satellite images with high accuracy, and image counts can serve to estimate average vehicle traffic.
+-Similarly, ML methods can help with imputing missing data for precise bottom-up estimation of GHG emissions and they are also applied in simulation models of vehicle emissions.
+-Modeling demand and planning new infrastructure can significantly shape how long trips are and which transport modes are chosen by passengers and shippers -- for example, discouraging sprawl and creating new transportation links can both reduce GHG emissions.
+-ML can provide information about mobility patterns, which is directly necessary for agent-based travel demand models, one of the main transport planning tools.
+-For example, ML makes it possible to estimate origin-destination demand from traffic counts, and it offers new methods for spatio-temporal road traffic forecasting -- which do not always outperform other statistical methods but may transfer well between areas.
+-Also, short-term forecasting of public transit ridership can improve with ML; see for example.
+-ML is particularly relevant for deducing information from novel data -- for example, learning about the behavior of public transit users from smart card data.
+-Also, mobile phone sensors provide new means to understand personal travel demand and the urban topology, such as walking route choices.
+-Similarly, ML-based modeling of demand can help mitigate climate change by improving operational efficiency of modes that emit significant CO_2, such as aviation.
+-ML can help predict runway demand and aircraft taxi time in order to reduce the excess fuel burned in the air and on the ground due to congestion in airports.
+-In the passenger sector, shared mobility (such as on-demand ride services or vehicle-sharing), is undoubtedly disrupting the way people travel and think about vehicle ownership, and ML plays an integral part in optimizing these services (e.g.~).
+-However, it is largely unclear what the impact of this development will be.
+-For example, shared cars can actually cause more people to travel by car, as opposed to using public transportation.
+-Similarly, on-demand taxi services add mileage when traveling without a customer, possibly negating any GHG emission savings.
+-On the other hand, shared mobility can lead to higher utilization of each vehicle, which means a more efficient use of materials.
+-The use of newer and more efficient vehicles, ideally electric ones, could increase with vehicle-sharing concepts, reducing GHG emissions.
+-Some of the issues
+It is important to lower GHG emissions when designing and promoting new mobility services in order to avoid lock-in to a high-GHG-emissions service.
+-Freight consolidation (bundling shipments together) and routing (changing so that trucks do not have to return empty) can dramatically reduce the number of trips and GHG emissions.
+-ML offers opportunities to optimize the complex interaction of shipment sizes, modes, origin-destination pairs, and service requirements.
+-ML can be used to improve the efficiency of vehicles and the way they are operated.
+-AVs have the potential to reduce energy consumption by reducing traffic congestion and inducing efficiency through eco-driving.
+Machine learning is a field of artificial intelligence that deals with the design and development of algorithms that can learn from and make predictions on data.
+- Autonomous vehicles (AVs) are vehicles that are capable of operating without human input or intervention.
+- AVs have the potential to reduce energy consumption by reducing traffic congestion and inducing efficiency through eco-driving. However, it is also possible that AVs will lead to an increase in overall road traffic that nullifies efficiency gains.
+- Two advantages of AVs in the freight sector promise to cut GHG emissions: first, small autonomous vehicles, such as delivery robots and drones, could reduce the energy consumption of last-mile delivery; and second, trucks can reduce energy consumption by platooning (driving very close together to reduce air resistance).
+- ML can help to develop AV technologies specifically aimed at reducing energy consumption. For example, Wu develop AV controllers based on reinforcement learning to smooth out traffic involving non-autonomous vehicles, reducing congestion-related energy consumption.
+- Electric vehicle (EV) technologies are regarded as a primary means to decarbonize transport. EVs can have very low GHG emissions - depending, of course, on the carbon intensity of the electricity.
+- ML is vital for a range of different problems related to EVs. Rigas et al. detail methods by which ML can improve charge scheduling, congestion management, and vehicle-to-grid algorithms.
+- As more people drive EVs, understanding their use patterns will become more important. Modeling charging behavior will be useful for grid operators looking to predict electric load.
+- Battery electric vehicles are typically not used for more than a fraction of the day, allowing them to act as energy storage for the grid at other times, where charging and discharging is controlled for example by price signals.
+- Vehicle-to-grid technology comes with private and social financial benefits. However, consumers are expected to be reluctant to agree to such services, as they might not want to compromise their driving range.
+- ML can also play a role in the research and development of batteries, a decisive technology for EV costs and usability.
+- Much of the transportation sector is highly dependent on liquid fossil fuels. Aviation, long-distance road transportation, and ocean shipping require fuels with high energy density and thus are not conducive to electrification.
+- Electrofuels, solar fuels, biofuels, hydrogen, and perhaps natural gas offer alternatives, but the use of these fuels is constrained by factors such as cost, land-use,
+The transportation sector is highly dependent on liquid fossil fuels, which presents an opportunity to mitigate climate change by developing alternative fuels.
+-Electrofuels, solar fuels, biofuels, hydrogen, and natural gas offer alternatives to fossil fuels, but their use is constrained by factors such as cost, land-use, and compatibility with current infrastructure.
+-As a form of energy storage, electrofuels and hydrogen can provide services to the electricity grid by enabling flexible power use and balancing variable electricity generators.
+-ML techniques may present opportunities for improvement at various stages of research and development of alternative fuels.
+-Shifting passengers and freight to low carbon-intensity modes is one of the most important means to decarbonize transport.
+-ML can help to understand how usage patterns for bike stations depend on their immediate urban surroundings and help to solve the bike sharing rebalancing problem.
+-By producing accurate travel time estimates, ML can provide tools that help to integrate bike shares with other modes of transportation.
+-Coordination between modes resulting in faster and more reliable transit times could increase the amount of people or goods traveling on low-carbon modes such as rail.
+ML has been applied to monitor public sentiment about such bike shares via tweets . 
+-ML could also provide tools and information for regulators to ensure that public space can be used by everyone . 
+-Coordination between modes resulting in faster and more reliable transit times could increase the amount of people or goods traveling on low-carbon modes such as rail. 
+-ML algorithms could be applied to make public transportation faster and easier to use. 
+-For example, there is a rich literature exploring ML methods to predict bus arrival times and their uncertainty . 
+-Often freight is packaged so that it can switch between different modes of transport easily. Such  transportation relies on low-carbon modes such as rail and water for part of the journey . 
+-ML can contribute by improving predictions of the estimated time of arrival (for example of freight trains ) or the weight or volume of expected freight (for example for roll-on/roll-off transport -- often abbreviated as Ro-Ro ). 
+-Intelligent transport systems of different modes could be combined and enable more efficient multimodal freight transportation . 
+-Some modes with high GHG emissions, such as trucks, can be particularly cost-competitive in regions with lax enforcement of regulation, as they can benefit from overloading and not obeying labor or safety rules . 
+-ML can assist public institutions with enforcing their regulations. 
+-For example, image recognition can help law enforcement detect overloading of trucks . 
+-Decarbonizing transport is essential to a low-carbon society, and there are numerous applications where ML can make an impact. 
+-This is because transportation causes a large share of GHG emissions, but reducing them has been slow and complex. 
+-Solutions are likely very technical, are highly dependent on existing infrastructure, and require detailed understanding of passengers' and freight companies' behavior. 
+-ML can help decarbonize transportation by providing data, gaining knowledge from data, planning, and automation. 
+-Moreover, ML is fundamental to shared mobility, AVs, EVs, and smart public transit, which, with the right incentives, can be used to enable significant reductions in GHG emissions.

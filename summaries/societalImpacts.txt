@@ -1,0 +1,58 @@
+Climate change will have a variety of impacts on society, including prolonged ecological and socioeconomic stresses, as well as brief, but severe, disruptions.
+-A wide variety of strategies have been put forward to help society adapt to climate change, and ML can support each strategy.
+-To preserve ecosystems, it is important to know which are most at risk. This has traditionally been done via manual, on-the-ground observation, but the process can be accelerated by annotation of remote sensing data.
+-To monitor ocean ecosystems, marine robots are useful, because they can be used to survey large areas on demand.
+-Accurate estimates of species populations are the foundation on which conservation efforts are built. Camera traps and aerial imagery have increased the richness and coverage of sampling efforts. ML can help infer biodiversity counts from image-based sensors.
+-Citizen science can also enable dataset collection at a scale impossible in individual studies.
+-Monitoring biodiversity may be paired with interventions to protect rare species or control invasive pests. Machine learning is providing new solutions to assess the impact of ecological interventions and prevent poaching.
+Citizen science can enable dataset collection at a scale impossible in individual studies.
+-Computer vision algorithms that can classify species from photographs have furthered such citizen science efforts by making identifications easier and more accurate.
+-Work with citizen science data poses the additional challenge that researchers have no control over where samples come from.
+-To incentivize observations from undersampled regions, mechanisms from game theory can be applied.
+-Monitoring biodiversity may be paired with interventions to protect rare species or control invasive pests.
+-Machine learning is providing new solutions to assess the impact of ecological interventions and prevent poaching.
+-Shifts in weather patterns are likely to put infrastructure under more persistent stress.
+-Rising water tables near the coast will lead to faults in pipelines.
+-Urban heat islands will be exacerbated and it is likely that there will be an increased risk of flooding caused by heavy rain or coastal inundations, resulting in property damage and traffic blockages.
+-A clear target is construction of physical defenses -- for example, ``climate proofing'' cities with new coastal embankments and increased storm drainage capacity.
+-However, focusing solely on defending existing structures can stifle proactive thinking about urban and social development -- for example, floating buildings are being tested in Rotterdam.
+-From this more general perspective of improving social processes, ML can support two types of activities: Design and maintenance.
+-How can infrastructure be (re)designed to dampen climate impacts?
+-In road networks, it is possible to incorporate flood hazard and traffic information in order to uncover vulnerable stretches of road, especially those with few alternative routes.
+-If traffic data are not directly available, it is possible to construct proxies from mobile phone usage and city-wide CCTV streams -- these are promising in rapidly developing urban centers.
+-Beyond drawing from flood hazard maps, it is possible to use data from real-world flooding events, and to send localized predictions to those at risk.
+-For electrical, water, and waste collection networks, the same principle can guide investments in resilience -- using proxy or historical data about disruptions to anticipate vulnerabilities.
+-Robust components can replace those at risk; for example, parts of an energy grid that continue to provide power even when disconnected from the network, prevent cascading outages in power distribution.
+-Infrastructure is long-lived, but the future is uncertain, and planners must weigh immediate resource costs against future societal risks.
+-One area that urgently needs adaptation strategies is the consistent access
+Predictive maintenance and anomaly detection are two strategies for efficiently managing limited maintenance resources. 
+-Predictive maintenance prioritizes operations according to the predicted probability of a near-term breakdown, while anomaly detection discovers failures as soon as they occur. 
+-The systems referenced here have required the manual curation of data streams, structured and unstructured. 
+-Data can be used to monitor the risk of food insecurity in real time, to forecast near-term shortages, and to identify areas at risk in the long-term. 
+-For real-time and near-term systems, it is possible to distill relevant signals from mobile phones, credit card transactions, and social media data. 
+-These have emerged as low-cost, high-reach alternatives to manual surveying. 
+-The idea is to train models that link these large, but decontextualized, data with ground truth consumption or survey information, collected on small representative samples. 
+-This process of developing proxies to link small, rich datasets with large, coarse ones can be viewed as a type of semi-supervised learning, and is fertile ground for research. 
+-For longer-term warnings, spatially localized crop yield predictions are needed. 
+-These can be generated by aerial imagery or meteorological data (see ), if they can be linked with historical yield data. 
+-On the ground, it is possible to perform crop-disease identification from plant photos -- this can alert communities to disease outbreaks, and enhance the capacity of agricultural inspectors. 
+-For even longer-run risk evaluation, it is possible to simulate crop yield via biological and ecological models , presenting another opportunity for blending large scale simulation with ML. 
+-Beyond sounding alarms, ML can improve resilience of food supply chains. 
+-As detailed in , ML can reduce waste along these chains; we emphasize that for adaptation, it is important that supply chains also be made robust to unexpected disruptions. 
+-Individuals whose livelihoods depend on one activity, and who have less access to community resources, are those who are most at risk. 
+-Resilient livelihoods can be promoted through increased diversification, cooperation, and exchange, all of which can be facilitated by ML systems. 
+-For example, they can guide equipment and information sharing in farming cooperatives, via growers' social networks. 
+-Mobile money efforts can increase access to liquid purchasing power; they can also be used
+Human populations move in response to threats and opportunities, and machine learning (ML) can be used to predict large-scale migration patterns. 
+- Work in this area has relied on accessible proxies, like social media, where users' often self-report location information, or aerial imagery, from which the extent of informal settlement can be gauged. 
+- More than quantifying migration patterns, there have been efforts directly aimed at protecting refugees, either through improving rescue operations or monitoring negative public sentiment. 
+- It is worth cautioning that immigrants and refugees are vulnerable groups, and systems that surveil them can easily be exploited by bad actors. 
+- Designing methodology and governance mechanisms that allow vulnerable populations to benefit from such data, without putting them at additional risk, should be a research priority. 
+- Climate change will affect exposure to health hazards, and machine learning can play a role in measuring and mitigating their impacts across subpopulations. 
+- Two of the most relevant expected shifts are (1) heat waves will become more frequent and (2) outdoor and indoor air quality will deteriorate. 
+- These exposures have either direct or indirect effects on health. For example, prolonged heat episodes both directly cause heat stroke and can trigger acute episodes in chronic conditions, like heart or respiratory disease. 
+- Careful data collection and analysis have played a leading role in epidemiology and public health efforts for generations. It should be no surprise that ML has emerged as an important tool in these disciplines, supporting a variety of research efforts, from increasing the efficiency of disease simulators to supporting the fine-grained measurement of exposures and their health impacts. 
+- These disciplines are increasingly focused on the risks posed by climate change specifically. For example, new sources of data have enabled detailed sensing of urban heat islands, water quality, and air pollution. 
+- Further, data on health indicators, which are already collected, can quantitatively characterize observed impacts across regions as well as illuminate which populations are most at risk to climate-change induced health hazards. 
+- For example, it is known that the young, elderly, and socially isolated are especially vulnerable during heat waves, and finer-grained risk estimates could potentially drive outreach. 
+- Across social applications, there are worthwhile research challenges -- guiding interventions based on purely observational, potentially unrepresentative data poses risks. In these contexts, transparency is necessary, and ideally, causal effects of interventions could be estimated, to prevent feedback loops in which certain subgroups are

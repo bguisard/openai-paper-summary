@@ -1,0 +1,53 @@
+Plants, microbes, and other organisms have been drawing carbon from the atmosphere for millions of years.
+- Most of this carbon is continually broken down and recirculated through the carbon cycle, and some is stored deep underground as coal and oil, but a large amount of carbon is sequestered in the biomass of trees, peat bogs, and soil.
+- Our current economy encourages practices that are freeing much of this sequestered carbon through deforestation and unsustainable agriculture.
+- On top of these effects, cattle and rice farming generate methane, a greenhouse gas far more potent than carbon dioxide.
+- Overall, land use by humans is estimated to be responsible for about a quarter of global GHG emissions (and this may be an underestimate).
+- In addition to this direct release of carbon through human actions, the permafrost is now melting, peat bogs are drying, and forest fires are becoming more frequent as a consequence of climate change itself -- all of which release yet more carbon.
+- The large scale of this problem allows for a similar scale of positive impact.
+- According to one estimate, about a third of GHG emissions reductions could come from better land management and agriculture.
+- ML can play an important role in some of these areas.
+- Precision agriculture could reduce carbon release from the soil and improve crop yield, which in turn could reduce the need for deforestation.
+- Satellite images make it possible to estimate the amount of carbon sequestered in a given area of land, as well as track GHG emissions from it.
+- ML can help monitor the health of forests and peatlands, predict the risk of fire, and contribute to sustainable forestry.
+- These areas represent highly impactful applications, in particular, of sophisticated computer vision tools, though care must be taken in some cases to avoid negative consequences via the Jevons paradox.
+- Having real-time maps of GHGs could help us quantify emissions from agriculture and forestry practices, as well as monitor emissions from other sectors.
+- Such information would be valuable in guiding regulations or incentives that could lead to better land use practices.
+- For example, data on emissions make it possible to set effective targets, and pinpointing the sources of emissions makes it possible to enforce regulations.
+- While greenhouse gases are invisible to our eyes, they must by definition interact with sunlight.
+- This means that we can observe these compounds with hyperspectral cameras.
+- These cameras can record up to several hundred wavelengths (instead of simply RGB),
+Fertilizers are synthesized from nitrogen, a greenhouse gas that is about 300 times more potent than carbon dioxide.
+-The demand for sophisticated tools that would allow farmers to work at scale, but adapt to what the land needs is increasing. This approach is often known as "precision agriculture."
+-Smarter robotic tools can help enable precision agriculture.
+-There are many additional ways in which ML can contribute to precision agriculture, such as intelligent irrigation systems, disease detection, weed detection, and soil sensing.
+-ML tools for policy makers and agronomists could potentially encourage climate-positive action, such as remote sensing with UAVs and satellites to perform methane detection and carbon stock estimation.
+-Peatlands cover only 3% of the Earth's land area, yet hold twice the total carbon in all the world's forests, making peat the largest source of sequestered carbon on Earth.
+-When peat dries, it releases carbon through decomposition and also becomes susceptible to fire.
+-Monitoring peatlands and protecting them from artificial drainage or droughts is essential to preserve the carbon sequestered in them.
+-Advanced ML could potentially help develop precise monitoring tools at low cost and predict the risk of fire.
+-Modeling (and pricing) carbon stored in forests requires us to assess how much is being sequestered or released across the planet.
+-ML can be used to predict the height of trees from satellite imagery.
+-Planting trees, also called afforestation, can be a means of sequestering carbon over the long term.
+-However, care must be taken when planting trees to ensure a positive impact. Afforestation that comes at the expense of farmland (or ecosystems such as peat bogs) could result in a net increase of GHG emissions.
+ML can be used to predict the LiDAR's outcome from satellite imagery.
+-The learned estimator can perform predictions at the scale of the planet.
+-LiDAR data is often not equally distributed across regions or seasons.
+-Hence domain adaptation and transfer learning techniques may help algorithms to generalize better.
+-Planting trees, also called afforestation, can be a means of sequestering carbon over the long term.
+-According to one estimate, up to 0.9 billion hectares of extra canopy cover could theoretically be added globally.
+-However, care must be taken when planting trees to ensure a positive impact.
+-Afforestation that comes at the expense of farmland (or ecosystems such as peat bogs) could result in a net increase of GHG emissions.
+-Moreover, planting trees without regard for local conditions and native species can reduce the climate impact of afforestation as well as negatively affecting biodiversity.
+-ML can be helpful in automating large-scale afforestation by locating appropriate planting sites, monitoring plant health, assessing weeds, and analyzing trends.
+-Startups like BioCarbon Engineering and Droneseed are even developing UAVs that are capable of planting seed packets more quickly and cheaply than traditional methods.
+-Besides their potential for harming people and property, forest fires release carbon into the atmosphere (which in turn increases the rate of forest fires).
+-On the other hand, small forest fires are part of natural forest cycles.
+-Preventing them causes biomass to accumulate on the ground and increases the chances of large fires, which can then burn all trees to the ground and erode top soil, resulting in high carbon emissions, biodiversity loss, and a long recovery time.
+-Drought forecasting is helpful in predicting regions that are more at risk, as is estimating the water content in the tree canopy.
+-In reinforcement learning is used to predict the spatial progression of fire.
+-This helps firefighters decide when to let a fire burn and when to stop it.
+-With good tools to evaluate regions that are more at risk, firefighters can perform controlled burns and cut select areas to prevent the progression of fires.
+-Only 17% of the world's forests are legally protected.
+-The rest are subject to deforestation, which contributes to approximately 10% of global GHG emissions as vegetation is burned or decays.
+-While some deforestation is the result of expanding agriculture or urban developments, most of it comes from the

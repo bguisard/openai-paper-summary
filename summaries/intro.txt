@@ -1,0 +1,8 @@
+Climate change is one of the most pressing issues of our time, and machine learning can play a role in mitigating its effects.
+-There are many ways in which machine learning can be applied to climate change, from reducing emissions to preparing for the consequences of a changing climate.
+-There are many opportunities for machine learning to make a impact in the fight against climate change, and this paper provides an overview of where these opportunities lie.
+-The paper is divided into sections according to application domain, and each section includes keywords and background reading to help the reader find collaborators and relevant data.
+The goal of the paper is to explore the potential role of machine learning in climate change mitigation and adaptation, and to encourage public entities to release data that may be relevant to these goals. 
+-The paper is divided into sections according to different application domains, with each section including flags to indicate the potential role of ML in that domain. 
+-The paper highlights the need for collaboration across fields in order to develop effective strategies, and provides keywords and background reading for each section. 
+-It is emphasized that machine learning is not a silver bullet and that technologies that could address climate change have been available for years, but have not been adopted at scale.

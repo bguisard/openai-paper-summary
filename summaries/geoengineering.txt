@@ -1,0 +1,24 @@
+Solar geoengineering is the deliberate manipulation of the Earth's climate in order to counteract the effects of greenhouse gases.
+- The most common form of solar geoengineering is to make the Earth more reflective, keeping heat out.
+- Solar geoengineering comes with a host of potential side effects and governance challenges.
+- One of the primary candidate methods for geoengineering is stratospheric aerosol injection, which involves injecting sulfate particles into the stratosphere.
+- Although sulfates are the best understood due to volcanic eruption data, many other materials have been studied, including zirconium dioxide, titanium dioxide, calcite, and even synthetic diamond.
+- Machine learning has had recent success in predicting or even optimizing for specific chemical and material properties.
+- Any practical deployment of geoengineering would constitute "one of the most critical engineering design and control challenges ever considered".
+It is conceivable that machine learning could accelerate the search for reflective, cheap, and easy-to-keep-aloft chemicals that are nonreactive.
+- Current climate models do not perfectly capture atmospheric consol physics, so having natural data is important for validation.
+- If current consol models are correct, their best-fit parameters must still be determined (using historical data), which comes with uncertainty and computational difficulty.
+- ML may offer tools to help quantify and constrain uncertainty, and to manage computational load.
+- As a recent example, Gaussian processes were used to emulate climate model outputs based on nine possible consol parameter settings, allowing for the establishment of plausible parameter ranges with only 350 climate model runs instead of >100,000.
+- Ideally, we want uncertainty-aware consol simulations with a fraction of the cost of one climate model run, rather than 350.
+- Bayesian and neural network-based approaches could facilitate the fast, uncertainty-aware nonlinear system identification this challenge might require.
+- Additionally, there has been recent progress in reinforcement learning for control, which could be useful for fine-tuning geoengineering interventions such as deciding where and when to release consols.
+- Optimizing interventions requires defining objectives, and the choices here are far from clear.
+- Although it is possible to stabilize global mean temperature and even regional temperatures through geoengineering, it is most likely impossible to preserve all relevant climate characteristics in all locations.
+- Furthermore, climate model outputs do not tell the full story; ultimately, the goal of climate engineering is to minimize harm to people, ecosystems, and society.
+- It is therefore essential to develop robust tools for estimating the extent and distribution of these potential harms.
+- Any consideration of solar geoengineering raises many moral questions.
+- It may help certain regions at the expense of others, introduce risks like termination shock, and serve as a ``moral hazard'': widespread awareness of its very possibility may undermine mainstream efforts to cut emissions.
+- Because of these issues, there has been significant debate about whether it is ethically responsible to research this topic.
+- However, although it creates new risks, solar geoengineering could actually be a moderating force against the terrifying uncertainties climate change already introduces.
+- In this section, we have attempted to outline some of the technical challenges in implementing and evaluating solar geoengineering.

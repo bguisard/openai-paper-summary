@@ -1,0 +1,34 @@
+The first global warming prediction was made in 1896 by Arrhenius, who estimated that burning fossil fuels could release enough CO2 to warm the Earth by 5 degrees Celsius.
+- The fundamental physics underlying those calculations has not changed, but our predictions have become far more detailed and precise.
+- The predominant predictive tools are climate models, which are used to inform local and national government decisions, help people calculate their climate risks, and estimate the potential impacts of solar geoengineering.
+- Recent trends have created opportunities for ML to advance the state-of-the-art in climate prediction.
+- New and cheaper satellites are creating petabytes of climate observation data, while massive climate modeling projects are generating petabytes of simulated climate data.
+- Climate forecasts are computationally expensive, while ML methods are becoming increasingly fast to train and run, especially on next-generation computing hardware.
+- As a result, climate scientists have recently begun to explore ML techniques, and are starting to team up with computer scientists to build new and exciting applications.
+- Climate models represent our understanding of Earth and climate physics.
+- To turn data into useful predictions, we need to condense it into coherent, computationally tractable models.
+- ML models are likely to be more accurate or less expensive than other models where: (1) there is plentiful data, but it is hard to model systems with traditional statistics, or (2) there are good models, but they are too computationally expensive to use in production.
+- When data are plentiful, climate scientists build data-driven models.
+- In these areas, ML techniques may solve many problems that were previously challenging, including black box problems and classification of observational data.
+- The authors of  describe many opportunities for data scientists to assimilate data from diverse field and remote sensing sources, many of which have since been explored by climate informatics researchers.
+- Numerous authors have identified geoscience problems that would be aided by the development of benchmark datasets.
+- Efforts to develop such datasets include EnviroNet, the IS-GEO benchmark datasets, and ExtremeWeather.
+- We expect the collection of curated geoscience datasets to continue to grow; this process might even be accelerated by ML optimizations in data collection systems.
+- Many climate prediction problems are irremediably data-limited.
+- Existing climate models deal with this limitation by relying heavily on physical laws, such as thermodynamics.
+- These models are structured in terms of coupled partial differential equations that represent
+The effects of climate change are controlled by small-scale processes, which are difficult to model using traditional methods.
+-Deep learning can be used to approximate the behavior of these processes, at a fraction of the cost.
+-Existing scientific models do not always offer great trade-offs between cost and accuracy.
+-Neural networks trained on those scientific models produce similar predictions, but offer an entirely new set of compromises between training cost, production cost, and accuracy.
+-The next most important targets for climate model improvements are ice sheet dynamics and sea level rise.
+-The most uncertain parts of these models, and thus the best targets for improvement, are snow reflectivity, sea level reflectivity, ocean heat mixing and ice sheet grounding line migration rates.
+-Computer scientists who wish to work in this area could build models that learn snow and sea ice properties from satellite data, or use new video prediction techniques to predict short-term changes in the sea ice extent.
+-ML could also be used to identify and leverage relationships between climate variables.
+-The best climate predictions are synthesized from ensembles of 20+ climate models.
+-Making good ensemble predictions is an excellent ML problem.
+-In the further future, the Climate Modeling Alliance has proposed to build an entirely new climate model that learns continuously from data and from high-resolution simulations.
+Weather models are used to track the rapid, chaotic changes of the atmosphere, while climate models are used to track the slow, predictable changes of the ocean, land, and ice.
+-Climate models cannot predict the specific dates of future events, but they can predict changes in long-term trends like drought frequency and storm intensity.
+-ML has been used successfully to classify some extreme weather events, and can be used to predict localized flooding patterns from past data.
+-ML may change the way that scientific modeling is done, with many components of large climate models being replaced with ML models.

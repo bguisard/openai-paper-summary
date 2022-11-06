@@ -1,0 +1,11 @@
+Machine learning (ML) has the potential to contribute significantly to mitigating climate change, but is only one part of the solution.
+- Applying ML to climate change can benefit society and advance the field of ML.
+- Many of the problems associated with climate change highlight cutting-edge areas of ML, such as interpretability, causality, and uncertainty quantification.
+- The nature of climate-relevant data poses challenges and opportunities. For many of the applications we identify, data can be proprietary or include sensitive personal information.
+- Where datasets exist, they may not be organized with a specific task in mind, unlike typical ML benchmarks that have a clear objective.
+- Datasets may include information from heterogeneous sources, which must be integrated using domain knowledge.
+- The available data may not be representative of global use cases.
+- Tools from transfer learning and domain adaptation will likely prove essential in low-data settings.
+- For some tasks, it may also be feasible to augment learning with carefully simulated data.
+- The best option if possible is always more real data.
+- We call upon the machine learning community to use its skills as part of the global effort against climate change.

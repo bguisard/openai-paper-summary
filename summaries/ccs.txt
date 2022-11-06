@@ -1,0 +1,16 @@
+Even if we could cut emissions to zero today, we would still face significant climate consequences from greenhouse gases already in the atmosphere.
+- Eliminating emissions entirely may also be tricky, given the sheer diversity of sources (such as airplanes and cows).
+- Instead, many experts argue that to meet critical climate goals, global emissions must become net-negative---that is, we must remove more greenhouse gases from the atmosphere than we release.
+- Although there has been significant progress in negative emissions research, the actual greenhouse gas removal industry is still in its infancy.
+- Many of the primary candidate technologies for greenhouse gas removal directly harness the same natural processes which have (pre-)historically shaped our atmosphere.
+- One of the most promising methods is simply allowing or encouraging more natural uptake of greenhouse gases by plants (whose ML applications we discuss in ).
+- Other plant-based methods include bioenergy with carbon capture and storage, where plants are grown specifically to absorb greenhouse gases and then burned in a way that sequesters it (while creating energy or fertilizer as a useful byproduct).
+- Finally, the way most of Earth's greenhouse gases have been removed over geologic timescales is the slow process of mineral weathering, which also initiates further greenhouse gas absorption in the ocean due to alkaline runoff.
+- These processes can both be massively accelerated by human activity to achieve necessary scales of greenhouse gas removal.
+- However, although these biomass, mineral, and ocean-based methods are all promising enough as techniques to merit mention, they may have drawbacks in terms of land use and potentially serious environmental impacts, and (more relevantly for this paper) they would not likely benefit significantly from ML.
+- Another approach is to build facilities to extract greenhouse gases from power plant exhaust, industrial processes, or even ambient air.
+- While this ``direct air capture'' (DAC) approach faces technical hurdles, it requires little land and has, according to current understanding, minimal negative environmental impacts.
+- The basic idea behind DAC is to blow air onto greenhouse gas sorbents (essentially like sponges, but for gas), which are either solid or in solution, then use heat-powered chemical processes to release the greenhouse gas in purified form for sequestration.
+- Several companies have recently been started to pilot these methods.
+- While greenhouse gas sorbents are improving significantly, issues still remain with efficiency and degradation over time, offering potential (though still speculative) opportunities for ML.
+- ML could be used

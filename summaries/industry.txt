@@ -1,0 +1,42 @@
+The leading causes of difficult-to-eliminate GHG emissions are industrial production, logistics, and building materials.
+- The global industrial sector spends billions of dollars annually gathering data on factories and supply chains, aided by improvements in the cost and accessibility of sensors and other data-gathering mechanisms.
+- The availability of large quantities of data, combined with affordable cloud-based storage and computing, indicates that industry may be an excellent place for ML to make a positive climate impact.
+- ML demonstrates considerable potential for reducing industrial GHG emissions under the following circumstances:
+- In particular, ML can potentially reduce global emissions by helping to streamline supply chains, improve production quality, predict machine breakdowns, optimize heating and cooling systems, and prioritize the use of clean electricity over fossil fuels.
+- However, it is worth noting that greater efficiency may increase the production of goods and thus GHG emissions (via the Jevons paradox) unless industrial actors have sufficient incentives to reduce overall emissions.
+- ML can help reduce emissions in supply chains by intelligently predicting supply and demand, identifying lower-carbon products, and optimizing shipping routes.
+- However, for many of these applications to reduce emissions, firms' financial incentives must also align with climate change mitigation through carbon pricing or other policy mechanisms.
+- The production, shipment, and climate-controlled warehousing of excess products is a major source of industrial GHG emissions, particularly for time-dependent goods such as perishable food or retail goods that quickly fall out of fashion.
+- ML may be able to mitigate these issues of overproducing and/or overstocking goods by improving demand forecasting.
+- Recommender systems can potentially direct consumers and purchasing firms toward climate-friendly options, as long as one can obtain information about GHG emissions throughout the entire life-cycle of some product.
+- The challenge here lies in hunting down usable data on every relevant material and production process from metal ore extraction through production, shipping, and eventual use and disposal of a product.
+- Globally, society loses or wastes 1.3 billion metric tons of food each year, which translates to  of all food produced for human consumption.
+- In developing countries, 40% of food waste occurs between harvest and processing or retail, while over 40% of food waste in industrialized nations occurs at the end of supply chains, in retail outlets, restaurants, and consumers' homes.
+- ML can help reduce food waste by optimizing delivery routes and improving demand forecasting at the point of sale, as
+The challenge in reducing greenhouse gas (GHG) emissions from industry lies in acquiring data on every relevant material and production process, and convincing companies to share this data.
+-ML algorithms could help identify the cleanest options for production, shipping, and eventual use and disposal of a product.
+-Globally, society loses or wastes 1.3 billion metric tons of food each year, which translates to  of all food produced for human consumption. In developing countries, 40% of food waste occurs between harvest and processing or retail, while over 40% of food waste in industrialized nations occurs at the end of supply chains, in retail outlets, restaurants, and consumers' homes.
+-ML can help reduce food waste by optimizing delivery routes and improving demand forecasting at the point of sale, as well as improving refrigeration systems.
+-Cement and steel production together account for over 10% of all global GHG emissions; the cement industry alone emits more GHGs than every country except the US and China.
+-ML can help minimize these emissions by reducing the need for carbon-intensive materials, by transforming industrial processes to run on low-carbon energy, and even by redesigning the chemistry of structural materials.
+-To reduce the use of cement and steel, researchers have combined ML with generative design to develop structural products that require less raw material, thus reducing the resulting GHG emissions.
+-Novel manufacturing techniques such as 3D printing allow for the production of unusual shapes that use less material but may be impossible to produce through traditional metal-casting or poured concrete; ML and finite element modeling have been used to simulate the physical processes of 3D printing in order to improve the quality of finished products.
+-Assuming future advances in materials science, ML research could potentially draw upon open databases such as the Materials Project and the UCI Machine Learning Repository to invent new, climate-friendly materials.
+-Using semi-supervised generative models and concrete compression data, for example, Ge et al.~proposed novel, low-emission concrete formulas that could satisfy desired structural characteristics.
+-Researchers are also experimenting with supervised learning and thermal imaging systems to rapidly identify promising catalysts and chemical reactions, as described in.
+-Firms are unlikely to adopt new materials or change existing practices without financial incentives, so widespread adoption might require subsidies for low-carbon alternatives or penalties for high GHG emissions.
+-Ammonia production for fertilizer use relies upon natural gas to heat up and catalyze the reaction, and
+Again, the higher the incentives for reducing carbon emissions, the more likely that firms will optimize for low-carbon energy use. 
+- New factory equipment can be very expensive to purchase and set up, so firms' cost-benefit calculations may dissuade them from retrofitting existing factories to run using low-carbon electricity or to save a few kilowatts. 
+- Given the heterogeneity across industrial sectors and the secrecy of industrial data, firms will also need to tailor the requisite sensors and data analysis systems to their individual processes. 
+- ML will become a much more viable option for industry when factory workers can identify, develop, implement, and monitor their own solutions internally instead of relying upon outside experts. 
+- The ML community can assist by building accessible, customizable industry tools tailored for people without a strong background in data science. 
+- On the production side, ML can potentially improve the efficiency of HVAC systems and other industrial control mechanisms---given necessary data about all relevant processes. 
+- To reduce GHG emissions from HVAC systems, researchers have suggested combining optimization-based control algorithms with ML techniques such as image recognition, regression trees, and time delay neural networks (see also ). 
+- DeepMind has used reinforcement learning to optimize cooling centers for Google's internal servers by predicting and optimizing the , thus lowering HFC emissions and reducing cooling costs. 
+- Deep neural networks could also be used for adaptive control in a variety of industrial networking applications, enabling energy savings through self-learning about devices' surroundings. 
+- ML could also contribute to predictive maintenance by more accurately modelling the wear and tear of machinery that is currently in use, and interpretable ML could assist factory owners in developing a better understanding of how best to minimize GHG emissions for specific equipment and processes. 
+- For example, creating a model of some industrial equipment or process could enable a manufacturer to identify and prevent undesirable scenarios, as well as virtually test out a new piece of code before uploading it to the actual factory floor -- thus potentially increasing the GHG efficiency of industrial processes. 
+- Digital twins can also reduce production waste by identifying broken or about-to-break machines before the actual factory equipment starts producing damaged products. 
+- Industrial systems can employ similar models to predict which pipes are liable to spring leaks, in order to minimize the direct release of GHGs such as HFCs and natural gas. 
+- ML may be particularly useful for enabling more flexible operation of industrial electrical loads, through optimizing a firm

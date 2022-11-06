@@ -1,0 +1,75 @@
+Buildings are responsible for a quarter of global energy-related emissions.
+- It is possible to reduce emissions for existing buildings by up to 90%.
+- Many of these energy efficiency measures actually result in overall cost savings.
+- Two major challenges are heterogeneity and inertia.
+- Buildings vary according to age, construction, usage, and ownership, so optimal strategies vary widely depending on the context.
+- Machine learning provides critical tools for supporting both building managers and policy makers in their efforts to reduce GHG emissions.
+- ML can help select strategies that are tailored to individual buildings, and can also contribute to implementing those strategies via smart control systems.
+- An essential step towards energy efficiency is making sense of the increasing amounts of data produced by meters and home energy monitors.
+- This can take the form of energy demand forecasts for specific buildings, which are useful for power companies and in evaluating building design and operation strategies.
+- Learning how to transfer the knowledge gained from modeling one building to another can make it easier to render precise estimations of more buildings.
+- Within a single building, understanding which appliances drive energy use is crucial for targeting efficiency measures, and can motivate behavioral changes.
+- To verify the success or failure of energy efficiency interventions, statistical ML offers methods for causal inference.
+- Intelligent control systems in buildings can decrease the carbon footprint both by reducing the energy consumed and by providing means to integrate lower-carbon sources into the electricity mix.
+- Many critical systems inside buildings can be made radically more efficient.
+Statistical ML offers methods for causal inference, which can be used to verify the success or failure of energy efficiency interventions. 
+-Burlig used Lasso regression on hourly electricity consumption data from schools in California to find that energy efficiency interventions fall short of the expected savings. 
+-Deep learning methods could be used for counterfactual prediction to improve upon this. 
+-Intelligent control systems in buildings can decrease the carbon footprint both by reducing the energy consumed and by providing means to integrate lower-carbon sources into the electricity mix. 
+-ML can reduce energy usage by allowing devices and systems to adapt to usage patterns. 
+-Buildings can respond to signals from the electricity grid, providing flexibility to the grid operator and lowering costs to the consumer. 
+-Many critical systems inside buildings can be made radically more efficient through the use of ML. 
+-One example is heating and cooling (HVAC) systems, which account for more than half of the energy consumed in buildings. 
+-There are several promising ways to enhance HVAC operating performance, each providing substantial opportunities for using ML: forecasting what temperatures are needed throughout the system, better control to achieve those temperatures, and fault detection. 
+-Forecasting temperatures has traditionally been performed using detailed physical models of the system involved; however, ML approaches such as deep belief networks can potentially increase accuracy with less computational expense. 
+-For control, Kazmi used deep reinforcement learning to achieve a scalable 20% reduction of energy while requiring only three sensors: air temperature, water temperature, and energy use. 
+-ML can also automate building diagnostics and maintenance through fault-detection. 
+-Wang treated HVAC fault-detection as a one-class classification problem, using only temperature readings for their predictions. 
+-Deep autoencoders can be used to simplify information about machine operation so that deep neural networks can then more easily predict multiple kinds of faults. 
+-Many systems within buildings -- such as lights and heating -- can also adjust how they operate based on whether a building or room is occupied, thereby improving both occupant comfort and energy use. 
+-ML can help these systems dynamically adapt to changes in occupancy patterns. 
+-Moreover, occupancy detection itself represents an opportunity for ML algorithms, ranging from decision trees to deep neural networks that take input from occupancy sensors, WiFi signals, or appliance power consumption data. 
+-In variable low-carbon energy can mean that the supply and price of
+Smart meters can help to reduce GHG emissions by providing data that can be used to improve efficiency in various areas of city life, such as transportation, buildings, and economic activity.
+-However, there are concerns about the impact of widespread adoption of smart meters on mineral use and embodied energy use.
+-There are also security and privacy risks associated with smart home applications that require adequate regulation.
+-For many impactful mitigation strategies, such as district heating and cooling, neighborhood planning, and large-scale retrofitting of existing buildings, coordination at the district and city level is essential.
+-Policy makers use instruments such as building codes, retrofitting subsidies, investments in public utilities, and public-private partnerships in order to reduce GHG emissions without compromising equity.
+-Where energy-use data on individual buildings exist, ML can be used to derive higher-level patterns.
+-However, many regions of the world have almost no energy consumption data, which can make it difficult to design targeted mitigation strategies.
+-ML is uniquely capable of predicting energy consumption and GHG mitigation potential at scale from other types of available data.
+-UBEMs can be used for planning and operating district heating and cooling systems, which can reduce HVAC energy consumption and provide flexible load.
+-UBEMs include features such as the location, geometries, and various other attributes of interest like building footprint, usage, material, roof type, immediate surroundings, etc.
+-ML can be used to predict energy consumption from such features.
+-Beyond energy prediction, buildings' features can be used by ML algorithms to pinpoint which buildings have the highest retrofit potential.
+-Simple building characteristics and surrounding environmental factors can be used.
+-There have also been attempts to upscale individual-building energy models to the district scale.
+-Using deep neural networks for hybrid ML-physical modelling, Nutkiewicz provided precise energy demand forecasts that account for inter-building energy dynamics and urban microclimate factors for all buildings on a campus.
+-High-resolution satellite images can be used to generate exact building footprints at a national scale.
+-Energy-relevant building attributes, such as the presence of photovoltaic panels, can also be retrieved from these images.
+-To generate 3D models, LiDAR data is often used to retrieve heights or classify buildings at city scale, but its collection is expensive.
+-Recent research showed that heights can be predicted even without such elevation data, as demonstrated by , who predicted these from
+Energy-relevant building attributes, such as the presence of photovoltaic panels, can be retrieved from images.
+-LiDAR data is used to generate 3D models, but its collection is expensive.
+-Recent research showed that heights can be predicted from real estate records and census data.
+-Studies aim for complete 3D reconstruction with class labels for different components of buildings.
+-Increasingly, important aspects of city life come with digital information that can make the city function in a more coordinated way.
+-Habibzadeh differentiate between hard sensing and soft sensing.
+-Urban computing is an emerging field looking at data analytics in urban spaces, and aiming to yield insights for data-driven policies.
+-First, cities need to obtain relevant data on activities that directly or indirectly consume energy.
+-Second, smart city applications must transmit high volumes of data in real-time.
+-Third, urban policy-making based on intelligent infrastructure faces major challenges with data management.
+-When smart city projects are properly integrated into urban planning, they can make cities more sustainable and foster low-carbon lifestyles.
+-Different types of infrastructure interact, meaning that planning strategies should be coordinated to achieve mitigation goals.
+-Cities can reduce GHG emissions by coordinating between infrastructure sectors and better adapting services to the needs of the inhabitants.
+-ML and AI can help, for example, to coordinate district heating and cooling networks, solar power generation, and charging stations for electric vehicles and bikes.
+-Currently, most smart city projects for urban climate change mitigation are implemented in wealthier regions such as the United States, China, and the EU.
+Different types of infrastructure interact, meaning that planning strategies should be coordinated to achieve mitigation goals. For instance, urban sprawl influences the energy use from transport, as wider cities tend to be more car-oriented.
+-ML-based analysis has shown that the development of efficient public transportation is dependent on both the extent of urban sprawl and the local development around transportation hubs.
+-Cities can reduce GHG emissions by coordinating between infrastructure sectors and better adapting services to the needs of the inhabitants. ML and AI can help, for example, to coordinate district heating and cooling networks, solar power generation, and charging stations for electric vehicles and bikes, and can improve public lighting systems by regulating light intensity based on historical patterns of foot traffic.
+-Due to inherent variability in energy demand and supply, there is a need for uncertainty estimation, e.g.~using Markov chain Monte Carlo methods or Gaussian processes.
+-Currently, most smart city projects for urban climate change mitigation are implemented in wealthier regions such as the United States, China, and the EU. The literature on city-scale mitigation strategies is also strongly biased towards the Global North, while key mitigation challenges are expected to arise from the Global South.
+-Infrastructure models described in  could be used to plan low-carbon neighborhoods without relying on advanced smart city technologies. To transfer strategies across cities, it is possible to cluster similar cities based on climate-relevant dimensions.
+-Creutzig related the energy use of 300 cities worldwide to historical structural factors such as fuel taxes (which have a strong impact on urban sprawl). Other relevant applications include groupings of transportation systems using a latent class choice model, or of street networks to identify common patterns in urban development using hierarchical clustering.
+-We have shown many different ways that ML can help to reduce GHG emissions from buildings and cities. A central challenge in this sector is the availability of high-quality data for training the algorithms, which rarely go beyond main cities or represent the full spectrum of building types. Techniques for obtaining these data, however, can themselves be an important application for ML (e.g.~via computer vision algorithms to parse satellite imagery).
+-Realizing the potential of data-driven urban infrastructure can advance mitigation goals while improving the well-being of citizens.

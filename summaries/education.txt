@@ -1,0 +1,8 @@
+Quality education is essential for sustainable development and has many benefits for climate change and society as a whole.
+- Education helps people understand and address the causes and consequences of climate change, and provides the skills and tools necessary for adapting to its impacts.
+- AI and ML can contribute to education by improving access to educational opportunities, helping personalize the teaching process, and stepping in when teachers have limited time.
+- ITSs have traditionally been defined and constructed by hand, but recent approaches have applied ML techniques such as multi-armed bandit techniques to adaptively personalize sequences of learning activities, LSTMs to generate questions to evaluate language comprehension, and reinforcement learning to improve the strategies used within the ITS.
+- There is still much work to be done to bridge the performance gap between digital and human tutors, and ML-based approaches have an important role to play in this endeavor.
+- AIED can also help provide tools that improve educational outcomes at scale for larger groups of learners.
+- Key considerations for creating AIED tools that can be applied across the globe include adapting to local technological and cultural needs, addressing barriers such as access to electricity and internet, and taking into account students' computing skills, language, and culture.
+- Research has shown that educational activities centered on climate change and carbon footprints can engage learners in understanding the connection between personal and collective actions and their impact on global climate, and can enable individuals to make climate-friendly lifestyle choices.

@@ -1,0 +1,46 @@
+Addressing climate change requires swift and effective decision-making by groups at multiple levels, including communities, unions, NGOs, businesses, governments, intergovernmental organizations, and many more.
+-Such collective decision-making encompasses many kinds of action, such as negotiating international treaties to reduce GHG emissions, designing carbon markets, building resilient infrastructure, and establishing community-owned solar farms.
+-These decisions often involve multiple stakeholders with different goals and priorities, requiring difficult trade-offs.
+-The economic and societal systems involved are often extremely complex, and the impacts of climate-related decisions can play out globally across long time horizons.
+-To address some of these challenges, researchers are using empirical and mathematical methods from fields such as policy analysis, operations research, economics, game theory, and computational social science; there are many opportunities for ML to support and supplement these methods.
+-When designing climate change strategies, it is critical to understand how organizations and individuals act and interact in response to different incentives and constraints.
+-Agent-based models (ABMs) represent one approach used in simulating the actions and interactions of (people, companies, etc.) in their environment.
+-ABMs have been applied to a multitude of problems relevant to climate change, in particular to study low-carbon technology adoption.
+-For example, when modeling solar PV adoption, agents may represent individuals who act based on factors such as financial interest and the behavior of their peers; the goal is then to study how these agents interact in response to different conditions, such as electricity rates, subsidy programs, and geographical considerations.
+-Other applications of ABMs include modeling how behavior under social norms changes with external pressures, how the economy and climate may evolve given a diversity of political and economic beliefs, and how individuals may migrate in response to environmental changes.
+-While agent and environment models in ABMs are often hand-designed by experts, ML can help integrate data-driven insights into these models, for example by learning rules or models for agents based on observational data, or by using unsupervised methods such as VAEs or GANs to discover salient features useful in modeling a complex environment.
+-The hope of learning or tuning behavior from data is promising for generalization, many data-driven approaches lose the interpretability for which ABMs are valued; work in interpretable ML methods could potentially help with this.
+-In addition to ABMs, techniques from game theory can be valuable in modeling behavior, e.g.~to explore cooperation in
+When making decisions about policy, those in charge must take into account the inherent uncertainty in the data.
+- Machine learning can help to reduce this uncertainty by providing more accurate data.
+- For example, ML can be used to pinpoint sources of emissions, approximate traffic patterns, identify at-risk infrastructure, and mine information from financial disclosures.
+- Additionally, NLP, network analysis, and clustering techniques can be used to analyze social media data and understand public opinion and discourse around climate change.
+- This data can then be used to identify areas of intervention, compute the benefits and costs of a project, or evaluate the effectiveness of a policy after it has been implemented.
+- IAMs are used to explore future societal pathways that are consistent with climate goals and play a prominent role in the IPCC assessments.
+- While these models can simulate interactions between many variables in great detail, this comes at the cost of computational complexity and presents opportunities for machine learning.
+- Much as with Earth system models, ML can be applied within any of the various sub-models that make up an IAM.
+- One set of applications involves deriving results at the appropriate spatial resolution, since different components of an IAM operate at different scales.
+- Outputs with high resolution may be aggregated via clustering methods to provide insights, while at coarser resolution, statistical methods can help to disaggregate data to an appropriate spatial resolution.
+- ML also has the potential to help with sensitivity and uncertainty analysis, with finding numerical solutions for computational expensive submodels, and assessing the validity of the models.
+- In addition to assessing the outcomes of various policies, policy-makers may also employ optimization-based tools to figure out what decisions to make.
+- For example, combinatorial optimization is a powerful tool used widely for decision-making in operations research.
+- Tools from the field of multi-objective optimization can also help policy-makers manage trade-offs between different policies by reconciling competing objectives and minimizing negative side-effects.
+- When creating new policies, decision-makers may wish to understand previous policies (e.g. from other jurisdictions) and how these policies performed.
+- ML can help analyze previous policy actions automatically and at scale by improving computational text analysis.
+- In particular, natural language processing methods are already used in the field of political science to analyze political texts and legislation; these approaches could be promising for systematically studying climate change policies.
+- Causal inference techniques can also help assess the effect
+Previous work has used parallel surrogate search, assisted by ML, to efficiently solve multi-objective optimization problems.
+-Optimization algorithms which have been successful in the context of hyperparameter tuning (e.g. Bayesian optimization) or guided search algorithms (e.g. tree search algorithms) could also potentially be applied to this problem.
+-When creating new policies, decision-makers may wish to understand previous policies (e.g. from other jurisdictions) and how these policies performed. ML can help analyze previous policy actions automatically and at scale by improving computational text analysis.
+-In particular, natural language processing methods are already used in the field of political science to analyze political texts and legislation; these approaches could be promising for systematically studying climate change policies.
+-Causal inference techniques can also help assess the effect of a particular policy or climate-related event from observed outcomes. ML can play a role in causal inference, including in the context of policy problems and in climate-relevant scenarios such as estimating the effects of temperature on human mortality and the effects of World Bank projects on vegetative cover.
+-In economics, GHG emissions can be seen as a :~while a changing climate results in a cost for society, this cost is often not reflected in the market price of goods or services that cause GHG emissions. This is problematic, since organizations and individuals making decisions solely on the basis of market prices will tend to favor cheaper goods, even if those goods emit a large amount of GHGs.
+-Market-based tools such as carbon taxes aim to enforce prices reflecting the societal cost of GHGs and thus encourage socially beneficial behavior through market forces. ML can help in understanding the impacts of market instruments; assessing their effectiveness at reducing emissions; and supporting a swift, effective and fair implementation.
+-There are several approaches to pricing GHG emissions. Carbon taxes and quotas aim to influence the behavior of organizations by shaping supply and demand within an existing market. By contrast, cap-and-trade approaches such as those within the European Union involve a completely new market, an , within which companies can buy and sell a limited number of GHG emissions permits. Prices within such cap-and-trade markets are highly sensitive to control elements such as the number of permits released at a given time. ML can be used to analyze prices within these markets, for example by predicting prices via supervised learning or analyzing the main drivers of prices via hierarchical clustering.
+-Market design can influence GHG emissions even in settings where such emissions
+The excerpt discusses how market-based strategies can be used to effectively and efficiently manage climate change.
+-It is important to understand the distributional effects of these strategies, as some social groups may be more affected than others.
+-ML can help identify which organizations or individuals can actually participate in a given market.
+-The complexity, scale, and fundamental uncertainty inherent in the problems of climate change can pose challenges for collective decision-making.
+-ML can help supplement existing mathematical frameworks that are employed to alleviate some of these challenges.
+-Interpretable and fair ML techniques may be of particular importance in this context, as they may enable decision-makers to more effectively and equitably employ insights from ML models.
