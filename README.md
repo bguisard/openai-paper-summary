@@ -15,7 +15,8 @@ concept from OpenAI.
 
 ## Colab notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bguisard/openai-paper-summary/notebooks/openai_paper_summary.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bguisard/openai-paper-summary/blob/main/notebooks/openai_paper_summary.ipynb)
+
 
 The notebook was designed to run on Google colab, but it should be trivial to
 adjust it to run locally if you prefer.
