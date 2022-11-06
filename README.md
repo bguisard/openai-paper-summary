@@ -2,7 +2,7 @@
 
 OpenAI is hosting a Climate Change Hackathon on November 12-13. As a warm-up to
 the hackathon I decided to use their Completion API to summarize the
-[Tackling Climate Change with Machine Learning] paper using their completion API.
+[Tackling Climate Change with Machine Learning] paper.
 
 [Tackling Climate Change with Machine Learning]: https://arxiv.org/pdf/1906.05433.pdf
 
